@@ -1,0 +1,1 @@
+/usr/bin/cc     CMakeFiles/Pipeline.dir/src/pipeLine.c.o CMakeFiles/Pipeline.dir/fileprocessor/fileProcess.c.o CMakeFiles/Pipeline.dir/src/queue.c.o CMakeFiles/Pipeline.dir/src/queue2.c.o  -o Pipeline  -L/home/kai/Desktop/Pipeline2/lib -linstruction -Wl,-rpath,/home/kai/Desktop/Pipeline2/lib 

@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/kai/Desktop/Pipeline2/fileprocessor/fileProcess.c
+fileProcess.h
+/home/kai/Desktop/Pipeline2/fileprocessor/fileProcess.h
+stdio.h
+-
+stdlib.h
+-
+
+/home/kai/Desktop/Pipeline2/fileprocessor/fileProcess.h
+stdbool.h
+-
+

@@ -1,0 +1,12 @@
+#compile
+1. cmake .
+2. make
+
+#run
+./Pipeline <pipeline type> <file Path Of instruction>
+only support diversified pipeline so pipeline type is useless
+
+
+#describe
+Only finished update2 diversified pipeline
+some bugs in test2 file but can run test1 successfully.
